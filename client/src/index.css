@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.nav-link.active {
+    color: #dc2626 !important;
+  }
+
+  
